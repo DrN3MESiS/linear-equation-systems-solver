@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Oct 12 20:51:58 2019
+Finished on Sat Oct 12 11:00:51 2019
+Version 1.0.0
 
 @author: Alan Maldonado
 """
